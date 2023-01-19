@@ -1,0 +1,45 @@
+2022/10/14 01:14:50 [11631] building file list
+2022/10/14 01:14:50 [11631] cd+++++++++ sourcedir1/
+2022/10/14 01:14:50 [11631] >f+++++++++ sourcedir1/example_log.log
+2022/10/14 01:14:50 [11631] >f+++++++++ sourcedir1/result.txt
+2022/10/14 01:14:50 [11631] >f+++++++++ sourcedir1/testfile3
+2022/10/14 01:14:50 [11631] cd+++++++++ sourcedir1/screenshots/
+2022/10/14 01:14:50 [11631] >f+++++++++ sourcedir1/screenshots/task-a-2.jpg
+2022/10/14 01:14:50 [11631] >f+++++++++ sourcedir1/screenshots/task-b.jpg
+2022/10/14 01:14:50 [11631] >f+++++++++ sourcedir1/screenshots/task-b_1-3_result.jpg
+2022/10/14 01:14:50 [11631] >f+++++++++ sourcedir1/screenshots/task-b_4-6_result.jpg
+2022/10/14 01:14:50 [11631] sent 832,429 bytes  received 165 bytes  1,665,188.00 bytes/sec
+2022/10/14 01:14:50 [11631] total size is 831,536  speedup is 1.00
+2022/10/14 01:16:20 [11656] building file list
+2022/10/14 01:16:20 [11656] sent 414 bytes  received 18 bytes  864.00 bytes/sec
+2022/10/14 01:16:20 [11656] total size is 831,536  speedup is 1,924.85
+2022/10/14 01:17:16 [11672] building file list
+2022/10/14 01:17:16 [11672] .d..t...... sourcedir1/
+2022/10/14 01:17:16 [11672] >f+++++++++ sourcedir1/testfile3
+2022/10/14 01:17:16 [11672] sent 11,395 bytes  received 40 bytes  22,870.00 bytes/sec
+2022/10/14 01:17:16 [11672] total size is 831,536  speedup is 72.72
+2022/10/14 01:18:26 [11691] building file list
+2022/10/14 01:18:26 [11691] .d..t...... sourcedir1/
+2022/10/14 01:18:26 [11691] sent 375 bytes  received 21 bytes  792.00 bytes/sec
+2022/10/14 01:18:26 [11691] total size is 820,488  speedup is 2,071.94
+2022/10/14 01:21:12 [11735] building file list
+2022/10/14 01:21:12 [11735] *deleting   sourcedir1/result.txt
+2022/10/14 01:21:12 [11735] sent 372 bytes  received 43 bytes  830.00 bytes/sec
+2022/10/14 01:21:12 [11735] total size is 820,488  speedup is 1,977.08
+2022/10/14 01:22:14 [11759] building file list
+2022/10/14 01:22:14 [11759] .d..t...... sourcedir1/
+2022/10/14 01:22:14 [11759] >fcst...... sourcedir1/testfile3
+2022/10/14 01:22:14 [11759] sent 11,384 bytes  received 40 bytes  22,848.00 bytes/sec
+2022/10/14 01:22:14 [11759] total size is 820,519  speedup is 71.82
+2022/10/14 01:32:11 [11868] building file list
+2022/10/14 01:32:11 [11868] sent 372 bytes  received 18 bytes  780.00 bytes/sec
+2022/10/14 01:32:11 [11868] total size is 820,519  speedup is 2,103.89
+2022/10/14 01:32:32 [11872] building file list
+2022/10/14 01:32:32 [11872] sent 372 bytes  received 18 bytes  780.00 bytes/sec
+2022/10/14 01:32:32 [11872] total size is 820,519  speedup is 2,103.89
+2022/10/14 01:32:51 [11884] building file list
+2022/10/14 01:32:51 [11884] sent 372 bytes  received 18 bytes  780.00 bytes/sec
+2022/10/14 01:32:51 [11884] total size is 820,519  speedup is 2,103.89
+2022/10/14 01:54:51 [12105] building file list
+2022/10/14 01:54:51 [12105] sent 371 bytes  received 18 bytes  778.00 bytes/sec
+2022/10/14 01:54:51 [12105] total size is 820,501  speedup is 2,109.26

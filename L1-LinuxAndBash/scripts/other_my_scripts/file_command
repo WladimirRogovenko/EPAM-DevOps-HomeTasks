@@ -1,0 +1,1 @@
+mkdir t3 && touch my_file && echo "Hello" >> my_file && cat my_file || echo "Somthing went wrong" 

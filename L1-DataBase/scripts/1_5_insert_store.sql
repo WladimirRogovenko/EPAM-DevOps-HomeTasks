@@ -1,0 +1,6 @@
+INSERT INTO Store (YearOfIssue, ModelYear, AWD, Interior, ElectroPacket, Other, CarBrends_id, Colors_id, BasePrice) VALUES ('2017', '2018', '1', 'lux', '8.4 monitor, parktronic, rear cam, ', 'limited version', '1', '2', '17600.00');
+INSERT INTO Store (YearOfIssue, ModelYear, AWD, Interior, ElectroPacket, Other, CarBrends_id, Colors_id, BasePrice) VALUES ('2021', '2021', '0', 'elegant skin', 'radio, Automatic Headlamps', 'Accent/Body Color Fascias', '3', '5', '15205.50');
+INSERT INTO Store (YearOfIssue, ModelYear, AWD, Interior, ElectroPacket, Other, CarBrends_id, Colors_id, BasePrice) VALUES ('2018', '2017', '1', 'Bright White Clear Coat', '8.4\" Touchscreen Display', '18X7.0 Gloss Blk 5-Spoke Alum Wheels', '2', '4', '22310.00');
+INSERT INTO Store (YearOfIssue, ModelYear, AWD, Interior, ElectroPacket, Other, CarBrends_id, Colors_id, BasePrice) VALUES ('2021', '2020', '0', 'Black and wite', 'Air Cond ATC w/Dual Zone Control', 'Power 8-Way Driver Seat', '4', '2', '13000.00');
+INSERT INTO Store (YearOfIssue, ModelYear, AWD, Interior, ElectroPacket, Other, CarBrends_id, Colors_id, BasePrice) VALUES ('2022', '2020', '0', 'so-so', 'nothing', 'something', '7', '4', '24000.20');
+INSERT INTO Store (YearOfIssue, ModelYear, AWD, Interior, ElectroPacket, Other, CarBrends_id, Colors_id) VALUES ('2021', '2020', '1', 'so2-so3', 'some thing else', '', '3', '2');
